@@ -6,4 +6,6 @@
 *.scm#*
 .#*.scm
 
+*.swp
+*.swp~
 .idea
