@@ -9,7 +9,8 @@ An initial thought on schedule - subject to chaotic changes!
 
 | By Date | Section |
 |--------------------:|---------|
-| 09/26 | 1.1 - 1.1.8 |
-| 10/02 | 1.2 - 1.2.6 |
+| 08/26 | Prep        |
+| 09/02 | 1.1 - 1.1.8 |
+| 09/09 | 1.2 - 1.2.6 |
 
 
