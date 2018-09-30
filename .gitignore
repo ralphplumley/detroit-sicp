@@ -6,6 +6,8 @@
 *.scm#*
 .#*.scm
 
+*.swp
+*.swp~
+
 .idea
 
-test.rkt
